@@ -1,83 +1,172 @@
-<h1 align="center">Ahmed Hany</h1>
-<h3 align="center">Senior Software Engineer | Backend, Web, and Mobile</h3>
+<div align="center">
 
-<p align="center">
-  <a href="mailto:engoreoo@gmail.com">Email</a> ·
-  <a href="https://www.facebook.com/hanyohnana">Facebook</a> ·
-  <a href="https://github.com/EngOREOO">GitHub</a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B0F19,55:111827,100:00D1B2&text=Ahmed%20Hany&fontColor=F8FAFC&fontSize=58&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20Backend%20%7C%20Web%20%7C%20Mobile&descAlignY=58&descSize=18" alt="Ahmed Hany profile banner" />
 
----
+<a href="mailto:engoreoo@gmail.com">
+  <img src="https://img.shields.io/badge/Hire%20Me-engoreoo%40gmail.com-00D1B2?style=for-the-badge&logo=gmail&logoColor=0B0F19" alt="Hire Ahmed Hany" />
+</a>
+<a href="https://www.facebook.com/hanyohnana">
+  <img src="https://img.shields.io/badge/Facebook-Ahmed%20Hany-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile" />
+</a>
+<a href="https://github.com/EngOREOO">
+  <img src="https://img.shields.io/badge/GitHub-EngOREOO-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
 
-## About Me
+<br />
+<br />
 
-I am a Senior Software Engineer focused on building scalable backend systems, modern web applications, and cross-platform mobile products. I work across **Laravel**, **Node.js**, **Spring Boot**, and **Flutter**, with a strong focus on clean architecture, API design, performance, and maintainable code.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=00D1B2&center=true&vCenter=true&width=940&lines=I+build+systems+that+do+not+panic+under+real+traffic.;Laravel+backends.+Filament+dashboards.+Flutter+apps.;APIs%2C+deployments%2C+integrations%2C+and+the+boring+parts+done+right." alt="Typing introduction" />
 
-I enjoy turning business needs into reliable software: from database design and backend services to admin dashboards, integrations, mobile apps, deployment, and long-term product improvements.
-
-## Core Expertise
-
-- **Backend Engineering:** REST APIs, authentication, authorization, queues, jobs, caching, file handling, and integrations
-- **Full-Stack Development:** Laravel applications, admin panels, dashboards, responsive interfaces, and API-connected frontends
-- **Mobile Development:** Flutter apps for Android and iOS with clean state management and polished user experiences
-- **Enterprise Services:** Spring Boot APIs, structured Java services, validation, security, and database-backed systems
-- **System Quality:** clean architecture, readable code, performance tuning, debugging, refactoring, and deployment readiness
-
-## Main Technologies
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-## What I Build
-
-- Scalable APIs and backend platforms
-- Business dashboards and admin systems
-- E-commerce, booking, CRM, and operations tools
-- Real-time and notification-based features
-- Cross-platform Flutter applications
-- Third-party service integrations and automation workflows
-
-## Engineering Values
-
-- Write code that is clear, testable, and easy to maintain
-- Design APIs and databases with long-term product growth in mind
-- Keep performance, security, and developer experience part of the everyday workflow
-- Choose practical solutions that match real business needs
-
-## GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EngOREOO&show_icons=true&theme=tokyonight&hide_border=true" alt="Ahmed Hany GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngOREOO&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
-## Contact
-
-- **Email:** [engoreoo@gmail.com](mailto:engoreoo@gmail.com)
-- **Facebook:** [facebook.com/hanyohnana](https://www.facebook.com/hanyohnana)
+</div>
 
 ---
 
-<p align="center">
-  Building dependable software with Laravel, Node.js, Spring Boot, and Flutter.
-</p>
+## The Short Version
+
+I am **Ahmed Hany**, a Senior Software Engineer who turns messy business requirements into dependable software.
+
+My strongest zone is the full product engine: **Laravel backends, Filament dashboards, REST APIs, database design, integrations, deployments, and Flutter mobile apps**. I care about software that ships fast, stays readable, and survives the moment real users arrive.
+
+> I do not just build screens. I build the system behind the screen.
+
+---
+
+## What I Bring To A Team
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Backend That Holds</h3>
+      <p>Authentication, permissions, queues, jobs, caching, APIs, reporting, exports, files, and integrations built with long-term maintenance in mind.</p>
+    </td>
+    <td width="50%">
+      <h3>Dashboards People Can Actually Use</h3>
+      <p>Filament and custom admin systems for CRM, LMS, sales operations, analytics, workflows, and internal teams that need speed over decoration.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Mobile Apps With Product Sense</h3>
+      <p>Flutter apps for Android and iOS connected to real APIs, with clean state, practical UX, and release-ready structure.</p>
+    </td>
+    <td width="50%">
+      <h3>Engineering Ownership</h3>
+      <p>I can design the database, write the API, ship the dashboard, connect the mobile app, debug production, and document the path forward.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Core Stack
+
+<div align="center">
+
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,spring,java,ts,js" alt="Backend technologies" />
+
+### Frontend, Mobile & Product UI
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,vue,html,css,tailwind" alt="Frontend and mobile technologies" />
+
+### Data, Infra & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,git,github,linux" alt="Data infrastructure and tools" />
+
+</div>
+
+---
+
+## Systems I Like Building
+
+```txt
+CRM platforms        Sales pipelines, leads, deals, tasks, follow-ups, exports
+LMS products         Courses, trainers, students, permissions, learning operations
+Admin dashboards     Filament panels, role-based access, insights, automation
+Mobile products      Flutter apps backed by clean APIs and reliable auth
+Integrations         Payments, messaging, notifications, third-party services
+Reports              Excel, CSV, PDF, analytics, manager-level performance views
+```
+
+---
+
+## How I Think
+
+```php
+final class EngineeringStyle
+{
+    public function build(): array
+    {
+        return [
+            'architecture' => 'simple first, scalable where it matters',
+            'code' => 'readable, testable, boring in the best way',
+            'delivery' => 'ship, verify, improve',
+            'product_sense' => 'solve the business problem, not only the ticket',
+        ];
+    }
+}
+```
+
+---
+
+## GitHub Pulse
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>Product Engineering</strong>
+      <br />
+      Backend, dashboard, mobile, and deployment ownership.
+    </td>
+    <td align="center">
+      <strong>Business Systems</strong>
+      <br />
+      CRM, LMS, reporting, permissions, and workflow automation.
+    </td>
+    <td align="center">
+      <strong>Delivery Mindset</strong>
+      <br />
+      Build, verify, deploy, monitor, improve.
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=EngOREOO&bg_color=0B0F19&color=E5E7EB&line=00D1B2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Rhythm" alt="Ahmed Hany contribution graph" />
+
+</div>
+
+---
+
+## Current Focus
+
+- Building production-ready **Laravel + Filament** business systems.
+- Improving CRM, LMS, sales reporting, permissions, and dashboard experiences.
+- Shipping mobile experiences with **Flutter** and API-first architecture.
+- Turning operational workflows into software that saves teams time every day.
+
+---
+
+## Let Us Build Something Solid
+
+<div align="center">
+
+If you need someone who can own the backend, dashboard, mobile app, and deployment path, I am probably your guy.
+
+<br />
+<br />
+
+<a href="mailto:engoreoo@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-engoreoo%40gmail.com-00D1B2?style=for-the-badge&logo=gmail&logoColor=0B0F19" alt="Email Ahmed Hany" />
+</a>
+
+<br />
+<br />
+
+<sub>Laravel · Filament · Node.js · Spring Boot · Flutter · APIs · Dashboards · Deployments</sub>
+
+</div>
