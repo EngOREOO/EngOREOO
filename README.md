@@ -2,14 +2,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0B0F19,55:111827,100:00D1B2&text=Ahmed%20Hany&fontColor=F8FAFC&fontSize=58&fontAlignY=38&desc=Senior%20Software%20Engineer%20%C2%B7%20Backend%20%7C%20Web%20%7C%20Mobile&descAlignY=58&descSize=18" alt="Ahmed Hany profile banner" />
 
-<a href="mailto:engoreoo@gmail.com">
-  <img src="https://img.shields.io/badge/Hire%20Me-engoreoo%40gmail.com-00D1B2?style=for-the-badge&logo=gmail&logoColor=0B0F19" alt="Hire Ahmed Hany" />
+<a href="mailto:ahmed.hany.off@gmail.com">
+  <img src="https://img.shields.io/badge/Hire%20Me-ahmed.hany.off%40gmail.com-00D1B2?style=for-the-badge&logo=gmail&logoColor=0B0F19" alt="Hire Ahmed Hany" />
 </a>
-<a href="https://www.facebook.com/hanyohnana">
-  <img src="https://img.shields.io/badge/Facebook-Ahmed%20Hany-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile" />
+<a href="https://www.linkedin.com/in/codebyoreoo/">
+  <img src="https://img.shields.io/badge/LinkedIn-codebyoreoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
 </a>
 <a href="https://github.com/EngOREOO">
   <img src="https://img.shields.io/badge/GitHub-EngOREOO-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+</a>
+<a href="https://www.facebook.com/hanyohnana">
+  <img src="https://img.shields.io/badge/Facebook-Ahmed%20Hany-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook profile" />
 </a>
 
 <br />
@@ -160,8 +163,11 @@ If you need someone who can own the backend, dashboard, mobile app, and deployme
 <br />
 <br />
 
-<a href="mailto:engoreoo@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-engoreoo%40gmail.com-00D1B2?style=for-the-badge&logo=gmail&logoColor=0B0F19" alt="Email Ahmed Hany" />
+<a href="mailto:ahmed.hany.off@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-ahmed.hany.off%40gmail.com-00D1B2?style=for-the-badge&logo=gmail&logoColor=0B0F19" alt="Email Ahmed Hany" />
+</a>
+<a href="https://www.linkedin.com/in/codebyoreoo/">
+  <img src="https://img.shields.io/badge/LinkedIn-codebyoreoo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Ahmed Hany" />
 </a>
 
 <br />
