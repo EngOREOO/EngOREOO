@@ -139,6 +139,10 @@ final class EngineeringStyle
 
 <br />
 
+<img src="profile-3d-contrib/profile-ahmed.svg" alt="Ahmed Hany 3D contribution calendar" />
+
+<br />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngOREOO&bg_color=0B0F19&color=E5E7EB&line=00D1B2&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Rhythm" alt="Ahmed Hany contribution graph" />
 
 </div>

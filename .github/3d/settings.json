@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-ahmed.svg",
+  "backgroundColor": "#0B0F19",
+  "foregroundColor": "#E5E7EB",
+  "strongColor": "#00D1B2",
+  "weakColor": "#9CA3AF",
+  "radarColor": "#00D1B2",
+  "growingAnimation": true,
+  "contribColors": ["#1A2030", "#0B4A44", "#00806C", "#00AE94", "#00D1B2"]
+}
